@@ -56,3 +56,7 @@ The scripts were tested on psql cli tool. The Bash -x command expands the output
 
 # Deployment
 The application was deployed on the Jarvis remote desktop using the Crontab scheduler that automated the host_usage script every minute. The psql client using Docker was created and configured with PostgreSQL to establish a database connection and to store data. All the scripts were pushed to GitHub and git was used for version control. 
+# Improvements
+- Handle hardware updates
+- Handle git rollbacks and commits
+- Troubleshoot errors
