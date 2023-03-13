@@ -35,7 +35,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Highlighted Projects
-**Web app for handyman services** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Website for handyman services** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Developed a website for searching and calling handymen in the nearby area based on the problem. The tools and languages used in this project are J2EE, Tomcat server,mySql, HTML,CSS, Java Script, JDBC-ODBC driver.
 
 **Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
 
@@ -48,12 +48,12 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
+**Lambton College (2020-2021)**, Post Graduate Diploma Certificate, Computer Software and Database Development
+- Dean's List (2020)
+- GPA: 3.6/4.0
 
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**College of Engineering and Management (2013-2017)**, Bachlors of Technology, Computer Engineering and Management
+- Graduated in first division
 
 
 ## Miscellaneous
