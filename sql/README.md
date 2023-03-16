@@ -8,7 +8,8 @@ This project aimed to get deep insights into managing relational databases, and 
 ## SQL Queries
 #### -Create Tables(DDL): <br>
 1. ##### Create table cd.members
-   -CREATE TABLE members (<br>
+   ```
+   CREATE TABLE members (<br>
    memid integer NOT NULL,<br>
    surname character varying(200) NOT NULL,<br>
    firstname character varying(200) NOT NULL,<br>
@@ -17,24 +18,29 @@ This project aimed to get deep insights into managing relational databases, and 
    telephone character varying(20) NOT NULL,<br>
    recommendedby integer,<br>
    joindate timestamp without time zone NOT NULL<br>
-   );<br>
+   );
+   ```
 2. ##### Create table cd.bookings
-   -CREATE TABLE bookings (<br>
+   ```
+   CREATE TABLE bookings (<br>
    bookid integer NOT NULL,<br>
    facid integer NOT NULL,<br>
    memid integer NOT NULL,<br>
    starttime timestamp without time zone NOT NULL,<br>
    slots integer NOT NULL<br>
-   );<br>
+   );
+   ```
 3. ##### Create table cd.facilities
-   -CREATE TABLE facilities (<br>
+   ```
+   CREATE TABLE facilities (<br>
    facid integer NOT NULL,<br>
    name character varying(100) NOT NULL,<br>
    membercost numeric NOT NULL,<br>
    guestcost numeric NOT NULL,<br>
    initialoutlay numeric NOT NULL,<br>
    monthlymaintenance numeric NOT NULL<br>
-   );<br>
+   );
+   ```
 
 #### -DML queries solutions:<br>
 
