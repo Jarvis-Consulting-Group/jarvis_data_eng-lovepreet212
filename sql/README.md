@@ -35,7 +35,8 @@ This project aimed to get deep insights into managing relational databases, and 
    initialoutlay numeric NOT NULL,<br>
    monthlymaintenance numeric NOT NULL<br>
    );<br>
-##### -DML queries solutions:<br>
+
+####-DML queries solutions:<br>
 
 Question 1: The club is adding a new facility - a spa. Use the values:
    facid: 9, Name: 'Spa', membercost: 20, guestcost: 30, initialoutlay: 100000, monthlymaintenance: 800.<br>
