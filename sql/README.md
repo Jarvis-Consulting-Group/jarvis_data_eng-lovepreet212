@@ -1,5 +1,5 @@
 ## INTRODUCTION
-This project aimed to get deep insights into managing relational databases, and manipulating the data contained in them using various DDL and Dml commands. The IDE and database management system used to implement this project is pgadmin4 and PostgreSQL. The queries used in this project range from creating, inserting, deleting, and updating data to joining two tables or rows, or columns to retrieve the desired outcome.
+This project aimed to get deep insights into managing relational databases, and manipulating the data contained in them using various DDL and DML commands. The IDE and database management system used to implement this project is pgadmin4 and PostgreSQL. The queries used in this project range from creating, inserting, deleting, and updating data to joining two tables or rows, or columns to retrieve the desired outcome.
 
 ## Quick Start
 -Import data file<br>
@@ -36,7 +36,7 @@ This project aimed to get deep insights into managing relational databases, and 
    monthlymaintenance numeric NOT NULL<br>
    );<br>
 
-####-DML queries solutions:<br>
+#### -DML queries solutions:<br>
 
 Question 1: The club is adding a new facility - a spa. Use the values:
    facid: 9, Name: 'Spa', membercost: 20, guestcost: 30, initialoutlay: 100000, monthlymaintenance: 800.<br>
