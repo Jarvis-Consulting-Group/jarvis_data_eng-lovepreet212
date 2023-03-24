@@ -42,7 +42,7 @@
     {
       "description": [
         "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: This project demonstrates the use of JDBC  to make a connection between Java applications and Database Administration Systems by using Data Access Patterns. The tools and technologies used in this project are IntelliJ, Maven, JDBC, PostgreSQL, and docker containers. This project provides an overview of using DAO to perform various CRUD operations to achieve abstraction among the business and persistence layers.",
         "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
       ],
       "git_url": "/core_java",
@@ -55,7 +55,7 @@
     },
     {
       "description": "",
-      "git_url": "/python_data_anlytics",
+      "git_url": "/python_data_anlytic",
       "name": "Python Data Analytics"
     },
     {
@@ -92,7 +92,7 @@
       "bullets": [
         "Basketball player",
         "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Volunteer, ABC Food bank:Ut enim ad minim veniam"
       ],
       "title": "Activities/Hobbies"
     }
@@ -115,13 +115,13 @@
     "competent": [
       "HTML",
       "CSS",
-      "MongoDB",
+      "JDBC",
       "C/C++",
       "Firebase Console"
     ],
     "familiar": [
       "Python",
-      "C#",
+      "Repository Patterns",
       "Node Js",
       "React Native",
       "Javascript"

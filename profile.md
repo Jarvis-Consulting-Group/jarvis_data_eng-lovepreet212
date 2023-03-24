@@ -6,9 +6,9 @@ I graduated from Lambton College with a Post Graduate degree certificate in Comp
 
 **Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** HTML, CSS, MongoDB, C/C++, Firebase Console
+**Competent:** HTML, CSS, JDBC, C/C++, Firebase Console
 
-**Familiar:** Python, C#, Node Js, React Native, Javascript
+**Familiar:** Python, Repository Patterns, Node Js, React Native, Javascript
 
 ## Jarvis Projects
 
@@ -20,12 +20,12 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 **Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-lovepreet212/tree/master/core_java)]:
       
   - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
+  - JDBC App: This project demonstrates the use of JDBC  to make a connection between Java applications and Database Administration Systems by using Data Access Patterns. The tools and technologies used in this project are IntelliJ, Maven, JDBC, PostgreSQL, and docker containers. This project provides an overview of using DAO to perform various CRUD operations to achieve abstraction among the business and persistence layers.
   - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
 
 **Springboot App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-lovepreet212/tree/master/springboot)]: Not Started
 
-**Python Data Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-lovepreet212/tree/master/python_data_anlytics)]: Not Started
+**Python Data Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-lovepreet212/tree/master/python_data_anlytic)]: Not Started
 
 **Hadoop** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-lovepreet212/tree/master/hadoop)]: Not Started
 
@@ -61,4 +61,4 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 - Winner
 - Basketball player
 - Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Volunteer, ABC Food bank:Ut enim ad minim veniam
