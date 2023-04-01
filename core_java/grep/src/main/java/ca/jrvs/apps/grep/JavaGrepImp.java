@@ -20,7 +20,6 @@ public class JavaGrepImp implements JavaGrep{
         List<File> filesInDir=listFiles(getRootPath());
 
         for(File file:filesInDir){
-            logger.warn(String.valueOf(file));
             for(String line:readLines(file)){
                 if(containsPattern(line)){
                     matchedLines.add(line);
