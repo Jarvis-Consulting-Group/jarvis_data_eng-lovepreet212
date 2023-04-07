@@ -38,11 +38,12 @@ public class JavaGrepImp implements JavaGrep{
         List<File> fileNames=new ArrayList<>();
         File dir = new File(rootDir);
         File[] directoryListing = dir.listFiles();
+       // logger.warn(String.valueOf(directoryListing));
         if (directoryListing != null) {
             for (File child : directoryListing) {
                 if(child.isFile()) {
                     fileNames.add(child);
-                    logger.warn(String.valueOf(child));
+
                 } else {
                     listFiles(child.getPath());
                 }
@@ -58,7 +59,7 @@ public class JavaGrepImp implements JavaGrep{
     public List<String> readLines(File inputfile) {
         List<String> allLines = new ArrayList<>();
         try {
-            logger.warn(String.valueOf(inputfile));
+            //logger.warn(String.valueOf(inputfile));
             FileInputStream fileStream = new FileInputStream(inputfile);
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(fileStream));
             String strLine;
@@ -66,7 +67,7 @@ public class JavaGrepImp implements JavaGrep{
             //Read File Line By Line
             while ((strLine = bufferedReader.readLine()) != null)   {
                 allLines.add(strLine);
-                logger.warn(strLine);
+               // logger.warn(strLine);
             }
 
           //Close the input stream
