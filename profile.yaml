@@ -80,12 +80,12 @@ professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
   - title: "Software Developer"
     company: "Jarvis"
-    duration: "2020-present"
+    duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Worked on various data projects involving Linux, Bash, Docker, Postgres, Java. Followed the scrum agile methodology and used Git and Git Flow in every project. Assisted others in project-related issues."
   - title: "Mobile Application Developer"
     company: "LetsStopAids"
-    duration: "2021-2021"
+    duration: "2020-2021"
     description: "Developed a Mobile Application to store details of volunteers for the management. The tools and SDLC used in the development are Android Studio, JAVA, Firebase Console, and Agile Framework. Android studio was used to develop the front and back end, the firebase console was used to store data, and the project development followed the agile process."
 
 #List of edcuation
