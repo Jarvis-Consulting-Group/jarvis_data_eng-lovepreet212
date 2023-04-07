@@ -26,73 +26,29 @@
       "description": "Developed a website for searching and calling handymen in the nearby area based on the problem. The tools and languages used in this project are J2EE, Tomcat server,mySql, HTML,CSS, Java Script, JDBC-ODBC driver.",
       "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
       "name": "Website for handyman services"
-    },
-    {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": null,
-      "name": "Machine Learning"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Developed a Minimum Viable product to record the hardware specifications of each node and monitor node resource usage in real time.It is programmed using Linux command lines, Bash scripts, PostgreSQL, docker. The psql instance used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab used to trigger script every minute.",
+      "description": "This is a Linux-based project designed to record the hardware specifications and resource usage of each computer in a cluster. Its purpose is to make it easier for the administration team to perform load balancing, detect failures, or compensate for server failures. The application uses Bash scripts to gather hardware information and resource usage by the host computer, and a PostgreSQL database is run in a Docker container to persist the data obtained from each computer. The project automates every minute using crontab to allow continuous monitoring.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     },
     {
       "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: This project demonstrates the use of JDBC  to make a connection between Java applications and Database Administration Systems by using Data Access Patterns. The tools and technologies used in this project are IntelliJ, Maven, JDBC, PostgreSQL, and docker containers. This project provides an overview of using DAO to perform various CRUD operations to achieve abstraction among the business and persistence layers.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+        "JDBC App:This project showcases the usage of JDBC to establish connections between Java applications and Database Management Systems, utilizing Data Access Patterns. The project implements DAO to perform CRUD operations and achieve abstraction between the business and persistence layers. The IntelliJ IDE is used for development, and the Maven tool is for building, compiling, and managing dependencies in the application. A Docker container is used to run the PostgreSQL database, allowing operations on the data.",
+        "Grep App: The Grep Application is a project used to search for the specified file(s) in a given directory for lines containing the specified pattern and write the matching lines to an output file. This application is designed in two ways: one using a regular list collection and the other using Stream and lambda expressions. It uses IntelliJ to develop the application and the Java programming language. The Maven tool is used to build and manage dependencies such as the SLF4J logger. Docker is used to deploy the project on Docker Hub to make it easily accessible to other users. The application is tested using the inbuilt debugger available in the IDE."
       ],
       "git_url": "/core_java",
       "name": "Core Java Apps"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
-    },
-    {
-      "description": "",
-      "git_url": "/python_data_anlytic",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
-    },
-    {
-      "description": "",
-      "git_url": "/spark",
-      "name": "Spark"
-    },
-    {
-      "description": "",
-      "git_url": "/cloud_devops",
-      "name": "Cloud/DevOps"
     }
   ],
   "name": "Lovepreet Kaur",
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
-      ],
-      "title": "Certificates"
-    },
-    {
-      "bullets": [
-        "Winner"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank:Ut enim ad minim veniam"
+        "Playing Badminton",
+        "Dancing"
       ],
       "title": "Activities/Hobbies"
     }
@@ -116,7 +72,7 @@
       "HTML",
       "CSS",
       "JDBC",
-      "C/C++",
+      "Maven",
       "Firebase Console"
     ],
     "familiar": [
@@ -128,11 +84,11 @@
     ],
     "proficient": [
       "Java",
-      "Linux/Bash",
-      "RDBMS/SQL",
+      "Bash scripts",
+      "SQL",
       "Agile/Scrum",
-      "Git"
+      "Docker"
     ]
   },
-  "summary": "I graduated from Lambton College with a Post Graduate degree certificate in Computer Software and Database Development. During my studies, I got an opportunity to work as a volunteer  Mobile Application Developer with LetsStopAids Organization. Presently, I am working at Jarvis Consulting Group as a Software Developer Trainee. I am sharpening my skills and learning to implement real-world problems. Throughout my journey in STEM, I have realized that my problem-solving skills and ability to learn new things quickly can be a best fit for the IT world. I am excited for all the upcoming opportunities and to use my skills to fulfill business needs"
+  "summary": "I graduated from Lambton College with a Postgraduate Certification in Computer Software and Database Development. Before that, I completed my Bachelor's degree in Computer Science Engineering in India. During my degree, I learned to develop mobile and web applications using languages like Java and markup languages like HTML, CSS, and JavaScript. While studying, I volunteered for Let's Stop AIDS Organization, where I developed an Android mobile application using Java and Firebase to record volunteer profiles, timesheets, and availability for volunteering. Currently, I am working at Jarvis Consulting Group as a software developer. I am passionate about evolving technologies and improving my coding skills. From my perspective, coding brings new challenges every day, and that's what I enjoy about it. I like to solve errors and spend my time developing new applications using various tools and technologies. I pay attention to details and enjoy working as part of a team to solve specific problems. I am looking for an opportunity to kick start my career and thrive with my strong adaptability and leadership skills in this field."
 }
