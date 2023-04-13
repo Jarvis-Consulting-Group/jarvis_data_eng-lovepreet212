@@ -56,14 +56,14 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
+      "description": "Worked on various data projects involving Linux, Bash, Docker, Postgres, Java. Followed the scrum agile methodology and used Git and Git Flow in every project. Assisted others in project-related issues.",
+      "duration": "2023-present",
       "title": "Software Developer"
     },
     {
       "company": "LetsStopAids",
       "description": "Developed a Mobile Application to store details of volunteers for the management. The tools and SDLC used in the development are Android Studio, JAVA, Firebase Console, and Agile Framework. Android studio was used to develop the front and back end, the firebase console was used to store data, and the project development followed the agile process.",
-      "duration": "2021-2021",
+      "duration": "2020-2021",
       "title": "Mobile Application Developer"
     }
   ],

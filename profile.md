@@ -29,9 +29,9 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Developer, Jarvis (2023-present)**: Worked on various data projects involving Linux, Bash, Docker, Postgres, Java. Followed the scrum agile methodology and used Git and Git Flow in every project. Assisted others in project-related issues.
 
-**Mobile Application Developer, LetsStopAids (2021-2021)**: Developed a Mobile Application to store details of volunteers for the management. The tools and SDLC used in the development are Android Studio, JAVA, Firebase Console, and Agile Framework. Android studio was used to develop the front and back end, the firebase console was used to store data, and the project development followed the agile process.
+**Mobile Application Developer, LetsStopAids (2020-2021)**: Developed a Mobile Application to store details of volunteers for the management. The tools and SDLC used in the development are Android Studio, JAVA, Firebase Console, and Agile Framework. Android studio was used to develop the front and back end, the firebase console was used to store data, and the project development followed the agile process.
 
 
 ## Education
