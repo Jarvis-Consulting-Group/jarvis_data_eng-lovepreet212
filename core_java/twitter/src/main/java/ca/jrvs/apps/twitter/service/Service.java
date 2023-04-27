@@ -1,9 +1,10 @@
 package ca.jrvs.apps.twitter.service;
 
 import ca.jrvs.apps.twitter.model.Tweet;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
-
+@org.springframework.stereotype.Service
 public interface Service {
 
   /**

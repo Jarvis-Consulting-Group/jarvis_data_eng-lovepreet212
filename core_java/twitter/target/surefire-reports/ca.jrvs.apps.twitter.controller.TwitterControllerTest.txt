@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ca.jrvs.apps.twitter.controller.TwitterControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.652 s <<< FAILURE! - in ca.jrvs.apps.twitter.controller.TwitterControllerTest
+showTweet(ca.jrvs.apps.twitter.controller.TwitterControllerTest)  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.IllegalArgumentException: ID must contain only numbers
+	at ca.jrvs.apps.twitter.controller.TwitterControllerTest.showTweet(TwitterControllerTest.java:43)
+
+postTweet(ca.jrvs.apps.twitter.controller.TwitterControllerTest)  Time elapsed: 0.212 s  <<< ERROR!
+java.lang.RuntimeException: Unexpected HTTP status: 403
+	at ca.jrvs.apps.twitter.controller.TwitterControllerTest.postTweet(TwitterControllerTest.java:37)
+

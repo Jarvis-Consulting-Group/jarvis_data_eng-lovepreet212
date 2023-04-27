@@ -1,5 +1,7 @@
 package ca.jrvs.apps.twitter.dao;
+import org.springframework.stereotype.Repository;
 
+@Repository
 public interface CrdDao<T, ID> {
 
   /**
