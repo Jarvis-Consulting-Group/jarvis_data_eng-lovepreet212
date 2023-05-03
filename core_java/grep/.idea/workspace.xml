@@ -5,14 +5,179 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b24db4d2-5fb8-4f9e-b3ad-a0d4bf278f90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/core_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/grep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/txt/shakespeare.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/grep.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ca/jrvs/apps/grep/JavaGrep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.README.MD.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/txt/shakespeare.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/.idea/jdbc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/jrvs/apps/grep/JavaGrepImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/jrvs/apps/grep/JavaGrepLambdaImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/jrvs/apps/practice/RegexExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ca/jrvs/apps/practice/RegexExcImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ca/jrvs/apps/grep/JavaGrep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ca/jrvs/apps/grep/JavaGrepImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ca/jrvs/apps/grep/JavaGrepLambdaImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ca/jrvs/apps/practice/RegexExc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ca/jrvs/apps/practice/RegexExcImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/grep-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/original-grep-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/jdbc.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/sql/customer.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/sql/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/sql/orders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/sql/product.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/sql/queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/sql/salesperson.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ca/jrvs/apps/jdbc/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ca/jrvs/apps/jdbc/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ca/jrvs/apps/jdbc/DatabaseConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ca/jrvs/apps/jdbc/JDBCExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ca/jrvs/apps/jdbc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ca/jrvs/apps/jdbc/util/DataAccessObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ca/jrvs/apps/jdbc/util/DataTransferObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/resources/assets/ER.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/target/classes/ca/jrvs/apps/jdbc/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/target/classes/ca/jrvs/apps/jdbc/CustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/target/classes/ca/jrvs/apps/jdbc/DatabaseConnectionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/target/classes/ca/jrvs/apps/jdbc/JDBCExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/target/classes/ca/jrvs/apps/jdbc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/target/classes/ca/jrvs/apps/jdbc/util/DataAccessObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/target/classes/ca/jrvs/apps/jdbc/util/DataTransferObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/TwitterApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/TwitterCLIApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/TwitterCLIBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/controller/TwitterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/dao/CrdDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/dao/TwitterDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/dao/helper/HttpHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/dao/helper/TwitterHtttpHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/Dividend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/Entities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/Financial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/Hashtags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/Tweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/model/UserMentions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/service/TwitterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/spring/TwitterCLIComponentScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/main/java/ca/jrvs/apps/twitter/spring/TwitterCLISpringboot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/test/java/ca/jrvs/apps/twitter/TwitterDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/test/java/ca/jrvs/apps/twitter/controller/TwitterControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/src/test/java/ca/jrvs/apps/twitter/service/TwitterServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/JsonParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/TwitterApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/TwitterCLIApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/TwitterCLIBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/controller/TwitterController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/dao/CrdDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/dao/TwitterDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/dao/helper/HttpHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/dao/helper/TwitterHtttpHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/Coordinates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/Dividend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/Entities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/Financial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/Hashtags.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/Tweet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/model/UserMentions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/service/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/service/TwitterService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/spring/TwitterCLIComponentScan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/classes/ca/jrvs/apps/twitter/spring/TwitterCLISpringboot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/java_apps-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/java_apps-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/surefire-reports/TEST-ca.jrvs.apps.twitter.TwitterDaoTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/surefire-reports/TEST-ca.jrvs.apps.twitter.controller.TwitterControllerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/surefire-reports/TEST-ca.jrvs.apps.twitter.service.TwitterServiceTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/surefire-reports/ca.jrvs.apps.twitter.TwitterDaoTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/surefire-reports/ca.jrvs.apps.twitter.controller.TwitterControllerTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/surefire-reports/ca.jrvs.apps.twitter.service.TwitterServiceTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/test-classes/ca/jrvs/apps/twitter/TwitterDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/test-classes/ca/jrvs/apps/twitter/controller/TwitterControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter/target/test-classes/ca/jrvs/apps/twitter/service/TwitterServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grep/data/txt/shakespeare.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/scripts/host_info.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/scripts/host_usage.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/scripts/psql_docker.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/sql/ddl.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/sql/queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../linux_sql/tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sql/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sql/queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../linux_sql/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../linux_sql/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,24 +216,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/centos/dev/jarvis_data_eng_Lovepreet/src.zip&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/centos/dev/jarvis_data_eng_Lovepreet/src.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.JavaGrepImp">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.grep.HelloWorld" />
@@ -128,6 +293,7 @@
       <workItem from="1680020219945" duration="11957000" />
       <workItem from="1680096062877" duration="12296000" />
       <workItem from="1680111121191" duration="2582000" />
+      <workItem from="1683154045030" duration="24000" />
     </task>
     <servers />
   </component>
