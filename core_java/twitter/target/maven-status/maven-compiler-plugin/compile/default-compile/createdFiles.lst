@@ -5,8 +5,8 @@ ca/jrvs/apps/twitter/dao/helper/HttpHelper.class
 ca/jrvs/apps/twitter/model/Dividend.class
 ca/jrvs/apps/twitter/spring/TwitterCLISpringboot.class
 ca/jrvs/apps/twitter/TwitterApiTest.class
-ca/jrvs/apps/twitter/dao/TwitterDao.class
 ca/jrvs/apps/twitter/dao/helper/TwitterHtttpHelper.class
+ca/jrvs/apps/twitter/dao/TwitterDao.class
 ca/jrvs/apps/twitter/controller/TwitterController.class
 ca/jrvs/apps/twitter/model/Entities.class
 ca/jrvs/apps/twitter/service/TwitterService.class
