@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ca.jrvs.apps.twitter.TwitterDaoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.588 s <<< FAILURE! - in ca.jrvs.apps.twitter.TwitterDaoTest
+create(ca.jrvs.apps.twitter.TwitterDaoTest)  Time elapsed: 2.469 s  <<< ERROR!
+java.lang.RuntimeException: Unexpected HTTP status: 403
+	at ca.jrvs.apps.twitter.TwitterDaoTest.create(TwitterDaoTest.java:37)
+
