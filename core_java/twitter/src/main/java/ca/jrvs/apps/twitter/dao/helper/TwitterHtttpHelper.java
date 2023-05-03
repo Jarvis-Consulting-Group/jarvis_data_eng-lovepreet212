@@ -9,10 +9,8 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.util.EntityUtils;
 import org.springframework.http.HttpMethod;
 import org.springframework.stereotype.Component;
-
 import java.io.IOException;
 import java.net.URI;
 @Component
@@ -45,7 +43,6 @@ public class TwitterHtttpHelper implements HttpHelper {
 
 
     }
-
     private HttpResponse executeHttpRequest(HttpMethod method, URI uri, StringEntity stringEntity) throws OAuthException,IOException {
         if(method==HttpMethod.POST){
             HttpPost request=new HttpPost(uri);

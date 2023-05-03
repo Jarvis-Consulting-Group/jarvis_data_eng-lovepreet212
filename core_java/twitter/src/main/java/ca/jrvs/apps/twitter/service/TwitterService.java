@@ -2,6 +2,7 @@ package ca.jrvs.apps.twitter.service;
 import ca.jrvs.apps.twitter.dao.CrdDao;
 import ca.jrvs.apps.twitter.model.Tweet;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +10,7 @@ import java.util.List;
 public class TwitterService implements Service{
     private CrdDao dao;
     @Autowired
-    public TwitterService(CrdDao dao){
+    public TwitterService(@Qualifier("crdDao") CrdDao dao){
         this.dao = dao;
     }
     @Override

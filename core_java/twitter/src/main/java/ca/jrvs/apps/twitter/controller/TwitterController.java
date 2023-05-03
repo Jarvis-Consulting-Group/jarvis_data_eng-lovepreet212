@@ -28,7 +28,7 @@ public class TwitterController implements Controller {
     @Override
     public Tweet showTweet(String[] args) {
         if(args.length<2 && args.length>11){
-            throw new IllegalArgumentException("Usage:TwitterCliApp-> ShowTweet");
+            throw new IllegalArgumentException("Usage:TwitterCliApp-> ShowTweet: Arguments must be between 2 to 11");
         }
         String id=args[1];
         String[] fields=args[2].split(",");
