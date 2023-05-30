@@ -1,8 +1,23 @@
 package ca.jrvs.apps.trading.Service;
 
 import ca.jrvs.apps.trading.DAO.AccountDao;
+import ca.jrvs.apps.trading.DAO.PositionDao;
+import ca.jrvs.apps.trading.DAO.SecurityOrderDao;
 import ca.jrvs.apps.trading.DAO.TraderDao;
+import ca.jrvs.apps.trading.Models.domain.Account;
+import ca.jrvs.apps.trading.Models.domain.Position;
+import ca.jrvs.apps.trading.Models.domain.Trader;
+import ca.jrvs.apps.trading.Models.domain.TraderAccountView;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+import javax.transaction.Transactional;
+import java.util.List;
+import java.util.Optional;
+
+@Service
 public class TraderAccountService {
     private TraderDao traderDao;
     private AccountDao accountDao;
@@ -72,11 +87,6 @@ public class TraderAccountService {
         if(traderId == null || fund <= 0){
             throw new IllegalArgumentException("Trader id field is missing or funds is less than or equal to 0");
         }
-//        Optional<Trader> trader = traderDao.findById(traderId);
-//        System.out.println(trader.get().getId() + ", " + trader.get().getLastName());
-//        if(trader.get().getId() == null){
-//            throw new IllegalArgumentException("Trader does not exist");
-//        }
         Account account = accountDao.findAccountByTraderId(traderId);
         if(account.getTraderId() == null){
             throw new IllegalArgumentException("Trader does not exist");
