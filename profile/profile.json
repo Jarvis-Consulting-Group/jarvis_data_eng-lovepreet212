@@ -51,6 +51,11 @@
       "description": "Structured retailer data was analyzed using data wrangling and OLAP methodologies to generate statistical insights for a prospective marketing team. Customers were segmented into RFM categories utilizing Python Pandas and SQL querying. The analysis was performed within a Python Jupyter notebook, incorporating common visualizations to effectively illustrate trends and patterns in the data. This comprehensive analysis serves as a valuable resource for the marketing team, offering actionable insights for targeted marketing strategies and informed decision-making processes.",
       "git_url": "/python_data_anlytic",
       "name": "Python Data Analytics"
+    },
+    {
+      "description": "Utilized Pyspark in Azure Databricks to perform data wrangling and OLAP analysis on structured retailer data. Leveraged the power of Spark UI for monitoring and optimizing the analysis process. Employed RFM segmentation techniques to categorize customers based on Recency, Frequency, and Monetary Value. Incorporated common visualizations within the notebook to effectively illustrate trends and patterns present in the data. This comprehensive analysis serves as a valuable resource for the marketing team, offering actionable insights for targeted marketing strategies and informed decision-making processes. The combination of Pyspark, Azure Databricks, and Spark UI enhanced the efficiency and scalability of the analysis, empowering the marketing team to make data-driven decisions and optimize their marketing efforts.",
+      "git_url": "/spark",
+      "name": "spark"
     }
   ],
   "name": "Lovepreet Kaur",
