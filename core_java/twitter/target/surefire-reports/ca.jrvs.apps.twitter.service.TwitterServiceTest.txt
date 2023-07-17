@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ca.jrvs.apps.twitter.service.TwitterServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.692 s <<< FAILURE! - in ca.jrvs.apps.twitter.service.TwitterServiceTest
+postTweet(ca.jrvs.apps.twitter.service.TwitterServiceTest)  Time elapsed: 0.182 s  <<< ERROR!
+java.lang.RuntimeException: Unexpected HTTP status: 403
+	at ca.jrvs.apps.twitter.service.TwitterServiceTest.postTweet(TwitterServiceTest.java:37)
+
