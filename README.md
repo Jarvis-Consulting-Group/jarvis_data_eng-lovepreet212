@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Lovepreet Kaur. Jarvis Consulting
 
 I attained a Postgraduate Certification in Computer Software and Database Development from Lambton College, following the completion of my Bachelor's degree in Computer Science Engineering from India. Throughout my academic journey, I acquired the skills to develop mobile and web applications using Java, HTML, CSS, and JavaScript. While pursuing my studies, I also volunteered for Let's Stop AIDS Organization, where I developed an Android mobile application, utilizing Java and Firebase, to facilitate the recording of volunteer profiles, timesheets, and availability for volunteering. Presently, I work as a software developer at Jarvis Consulting Group and possess a deep passion for emerging technologies and honing my coding skills. I relish the challenges that programming presents on a daily basis and derive immense satisfaction from troubleshooting issues and creating novel applications using diverse tools and technologies. My meticulous attention to detail, coupled with my enthusiasm for teamwork, enables me to solve complex problems effectively. I am eager to kick-start my career and leverage my adaptability and leadership abilities to thrive in this dynamic field.
@@ -52,13 +52,3 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 ## Miscellaneous
 - Playing Badminton
 - Dancing
-=======
-# Jarvis Data Engineering Training
-1. [Linux cluster monitoring agent (Linux and SQL)](./linux_sql) In-progress
-2. [Core Java Apps](./core_java) In-progress
-3. [Springboot Trading REST API](./springboot) In-progress
-4. [Hadoop/Hive](./hadoop) In-progress
-5. [Spark/Scala](./spark) In-progress
-6. [Cloud/DevOps](./cloud_devops) In-progress
-
->>>>>>> faeture/python
