@@ -1,23 +1,25 @@
 package ca.jrvs.apps.trading.DAO;
 
 import ca.jrvs.apps.trading.Models.domain.Account;
-import ca.jrvs.apps.trading.Models.domain.Trader;
 import ca.jrvs.apps.trading.Models.domain.TraderAccountView;
 import ca.jrvs.apps.trading.Service.TraderAccountService;
+import ca.jrvs.apps.trading.Models.domain.Trader;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Import;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.jdbc.Sql;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import java.util.Date;
 
-import static org.junit.Assert.*;
+import java.sql.Date;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 @RunWith(SpringRunner.class)
-@Import(TestConfig.class)
+@SpringBootTest(classes = {TestConfig.class})
 @Sql({"classpath:schema.sql"})
 public class TraderAccountServiceTest {
 
@@ -35,10 +37,10 @@ public class TraderAccountServiceTest {
     @Before
     public void setup(){
         trader = new Trader();
-        trader.setFirstName("Oreoluwa");
-        trader.setLastName("Lawal");
+        trader.setFirstName("Love");
+        trader.setLastName("Kaur");
         trader.setCountry("Canada");
-        trader.setEmail("oreo@gmail.com");
+        trader.setEmail("lovekaur@gmail.com");
         trader.setDob((java.sql.Date) new Date(System.currentTimeMillis()));
         savedView =  traderAccountService.createTraderAndAccount(trader);
 

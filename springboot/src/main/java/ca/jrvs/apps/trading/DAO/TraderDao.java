@@ -11,18 +11,19 @@ import org.springframework.stereotype.Repository;
 import javax.sql.DataSource;
 
 @Repository
-public class TraderDao extends JdbcCrudDao<Trader>{
+public class TraderDao extends JdbcCrudDao<Trader> {
+
     private static final Logger logger = LoggerFactory.getLogger(TraderDao.class);
     private final String TABLE_NAME = "trader";
     private final String ID_COLUMN = "id";
+
     private JdbcTemplate jdbcTemplate;
     private SimpleJdbcInsert simpleJdbcInsert;
 
     @Autowired
     public TraderDao(DataSource dataSource){
         this.jdbcTemplate = new JdbcTemplate(dataSource);
-        this.simpleJdbcInsert = new SimpleJdbcInsert(dataSource).withTableName(TABLE_NAME)
-                .usingGeneratedKeyColumns(ID_COLUMN);
+        this.simpleJdbcInsert = new SimpleJdbcInsert(dataSource).withTableName(TABLE_NAME).usingGeneratedKeyColumns(ID_COLUMN);
     }
     @Override
     public JdbcTemplate getJdbcTemplate() {
